@@ -1,3 +1,3 @@
-# Codes Developed during my MSc studies
-These are codes developed for a study on self optimizing control of smart wells during oil reservoir waterflooding.
-It was used as part of the evaluation for my MSc thesis.
+# 
+Our study aims to apply feedback optimizing control strategy based on the principle of SOC for smart wells optimization. In this study, we formulate control variables (CV) expressions that will approximate the gradient of the objective function through production measurements obtained from a nominal reservoir model having wells integrated with Inflow Control Valves (ICVs). The strategy is then applied across three scenarios of reservoir uncertainties namely (I) oil and water relative permeability curves, (II) reservoir permeability with a log-norm distribution and (III) reservoir geometry, size and structure. To create a basis for evaluation, the performance of the developed smart well – SOC strategy is compared with the traditional open loop control (OC) over a benchmark (BM) scenario.
+
